@@ -46,7 +46,7 @@ University of Washington&#39;s Dean&#39;s List – Autumn 2011, Winter - Autumn 
 
 ## PUBLICATIONS &amp; PRESENTATIONS
 
-### Publications:
+### Publications ([Google Scholar](https://scholar.google.com/citations?hl=en&tzom=300&user=dmBl40wAAAAJ)):
 
 Townsend JP, **Tassia MG** , Damian-Serrano A, Whelan NV, Halanych KM, Sweeney AM. 2020. A mesopelagic ctenophore representing a new family, with notes on family-level taxonomy in Ctenophora: *Vampyroctena delmarvensis* gen. nov. sp. nov. (Vampyroctenidae, fam. nov.). *Marine Biodiversity* 50(34)  
 
