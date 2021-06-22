@@ -70,6 +70,8 @@ Abernath K, Banach M, Hudgell MAB, Blackmon LE, Breaux B, Brusch IV GA, Crisciti
 
 ### Presentations (Presented by M. Tassia unless otherwise noted):
 
+Hemichordates inform the evolution of deuterostome immunity. **Tassia MG**, Halanych KM. *Talk* presented to Virtual Evolution 2021.
+
 Fieldwork Aboard the R/V Nathanial B. Palmer. **Tassia MG.** *Invited talk* presented to the Dauphin Island Sea Lab Friday Seminar Series. February 2021.
 
 TIR-Domain Containing Protein SARM1 Diversity in Deuterostomes and Lophotrochozoans. Briseno JL, **Tassia MG** , Waits DS, Halanych KM. *Poster* presented by J.L. Briseno at SICB 2020, Austin, TX. January 2020.
