@@ -1,18 +1,17 @@
 # MICHAEL G. TASSIA
+### Contact information:
+Email: mtassia1@jhu.edu
 
-*Contact Information:*  
-101 Rouse Life Science Building, Auburn University  
-[http://mgt0007.wixsite.com/michaeltassia](http://mgt0007.wixsite.com/michaeltassia)  
-mgt0007@auburn.edu
+## EDUCATION & APPOINTMENTS
 
----
+**Postdoctoral Fellow, McCoy Lab**  
+**Johns Hopkins University - Baltimore, MD**  
+January 2022 to Present  
 
-## EDUCATION
-
-**PhD Candidate – Halanych Lab**  
+**Ph.D., Halanych Lab**  
 **Auburn University – Auburn, AL**  
-**Project: &quot;** _Hemichordate &amp; Deuterostome Immunity Evolution&quot;_  
-August 2015 to Present
+**Dissertation: *Evolution of Deuterostome Immune Systems***   
+August 2015 to December 2021
 
 **B.S. in Biology (General), Minor in Marine Biology**  
 **University of Washington – Seattle, WA**  
@@ -47,6 +46,8 @@ University of Washington&#39;s Dean&#39;s List – Autumn 2011, Winter - Autumn 
 ## PUBLICATIONS &amp; PRESENTATIONS
 
 ### Publications ([Google Scholar](https://scholar.google.com/citations?hl=en&tzom=300&user=dmBl40wAAAAJ)):
+
+**Tassia MG**, David KT, Townsend JP, and Halanych KM. 2021. TIAMMAt: Leveraging biodiversity to revise protein domain models, evidence from innate immunity. *Molecular Biology & Evolution* 38(12): 5806-5818.
 
 Townsend JP, **Tassia MG** , Damian-Serrano A, Whelan NV, Halanych KM, Sweeney AM. 2020. A mesopelagic ctenophore representing a new family, with notes on family-level taxonomy in Ctenophora: *Vampyroctena delmarvensis* gen. nov. sp. nov. (Vampyroctenidae, fam. nov.). *Marine Biodiversity* 50(34)  
 
@@ -142,7 +143,7 @@ Status: *Not awarded*
 
 ## RESEARCH AND LAB EXPERIENCE
 
-**Halanych Lab, Auburn University – May 2015 to Present**  
+**Halanych Lab, Auburn University – May 2015 to December 2021**  
 *Research Technician &amp; PhD Student; PI: Dr. Ken Halanych*
 
 Immunity evolution in deuterostomes. Utilizing bioinformatics and molecular approaches, this project aims to reveal conserved and novel immunity molecular programs in invertebrate deuterostomes. Methods include invertebrate upkeep, embryology, microinjection, RNA-seq, differential expression, RT-qPCR, phylogenetics, and bioinformatic development.
@@ -262,4 +263,4 @@ Primary mentor for an NSF-REU scholar. Guided her through bioinformatic and mole
 
 Available upon request
 
-Last updated: 5/6/2021
+Last updated: 1/18/2022
